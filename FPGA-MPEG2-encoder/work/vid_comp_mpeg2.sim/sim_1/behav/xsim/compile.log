@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/vlsi/vid_compression_clean/FPGA-MPEG2-encoder/RTL/mpeg2encoder_roi.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mpeg2encoder_roi
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/vlsi/vid_compression_clean/FPGA-MPEG2-encoder/SIM/tb_mpeg2encoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_mpeg2encoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/vlsi/vid_compression_clean/FPGA-MPEG2-encoder/work/vid_comp_mpeg2.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
