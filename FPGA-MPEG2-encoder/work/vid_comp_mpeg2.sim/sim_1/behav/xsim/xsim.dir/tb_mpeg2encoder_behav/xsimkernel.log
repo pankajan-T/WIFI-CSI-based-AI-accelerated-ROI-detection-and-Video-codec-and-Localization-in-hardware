@@ -1,4 +1,0 @@
-Running: xsim.dir/tb_mpeg2encoder_behav/xsimk -simmode gui -wdb tb_mpeg2encoder_behav.wdb -simrunnum 0 -socket 37735
-Design successfully loaded
-Design Loading Memory Usage: 55684 KB (Peak: 55692 KB)
-Design Loading CPU Usage: 20 ms
